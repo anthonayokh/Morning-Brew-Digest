@@ -14,3 +14,6 @@ Automated daily news collection from multiple websites into a single email summa
 ## 🚀 Quick Start
 
 1. **Clone the repository:**
+2. Run cred.py in same env, or run credentials.sh <bash file>
+3. Run News-report.py
+4. The news is sent to your email
